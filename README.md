@@ -26,6 +26,7 @@ SDN Lab
 
 <h1>Step 7: programming the SDN controller with Ryu</h1>
 <h2>sudo apt install python3-ryu and verify installation with ryu-manager --version</h2>
+we had to use sudo apt install -y python3-ryu since the original sudo apt install python3-ryu command was throwing 404 errors when prompted if we'd like to continue the install. Once command was updated we were able to run ryu-manager --version properly 
 <img width="620" height="779" alt="image" src="https://github.com/user-attachments/assets/469346a3-e5e4-460d-8335-66e2677efe67" />
 
 <h1>Step 8: Connect mininet to controller</h1>
