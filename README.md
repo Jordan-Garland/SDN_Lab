@@ -23,3 +23,9 @@ SDN Lab
 <h1>Step 6: measure bandwith</h1>
 <h2>'h1 iperf -s &' and "h2 iperf -c h1"</h2>
 <img width="285" height="108" alt="image" src="https://github.com/user-attachments/assets/f860dacb-a6a9-4aed-94ed-44d9233b1e2e" />
+
+<h1>Step 7: programming the SDN controller with Ryu</h1>
+<h2>sudo apt install python3-ryu and verify installation with ryu-manager --version</h2>
+<img width="620" height="779" alt="image" src="https://github.com/user-attachments/assets/469346a3-e5e4-460d-8335-66e2677efe67" />
+
+<h1>Step 8: </h1>
