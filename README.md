@@ -12,3 +12,6 @@ SDN Lab
 <h2>sudo mn</h2>
 <img width="134" height="130" alt="image" src="https://github.com/user-attachments/assets/b5289b1a-6ad7-42d7-8137-b9300ef6d611" />
 
+<h1>Step 4: test connectivity</h1>
+<h2>h1 ping h2</h2>
+<img width="287" height="174" alt="image" src="https://github.com/user-attachments/assets/fd4516c6-eb23-4b4d-900c-8de9bf84cd7e" />
