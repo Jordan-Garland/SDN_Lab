@@ -28,4 +28,7 @@ SDN Lab
 <h2>sudo apt install python3-ryu and verify installation with ryu-manager --version</h2>
 <img width="620" height="779" alt="image" src="https://github.com/user-attachments/assets/469346a3-e5e4-460d-8335-66e2677efe67" />
 
-<h1>Step 8: </h1>
+<h1>Step 8: Connect mininet to controller</h1>
+<h2>sudo mn --controller=remote,ip=127.0.0.1,port=6653 --topo single,3</h2>
+<img width="417" height="135" alt="image" src="https://github.com/user-attachments/assets/a8ecfc70-7619-48fa-952d-410959156e37" />
+
