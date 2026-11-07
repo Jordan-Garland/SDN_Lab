@@ -1,1 +1,10 @@
 # SDN_Lab
+
+install ubuntu server VM 
+
+install mininet ontoo server via: sudo apt install mininet
+
+404416
+
+//tested mininet installation via: sudo mn test --pingall
+
