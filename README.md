@@ -15,3 +15,6 @@ SDN Lab
 <h1>Step 4: test connectivity</h1>
 <h2>h1 ping h2</h2>
 <img width="287" height="174" alt="image" src="https://github.com/user-attachments/assets/fd4516c6-eb23-4b4d-900c-8de9bf84cd7e" />
+
+<h1>creating custom topology</h1>
+<h2>sudo mn --topo single,3</h2>
