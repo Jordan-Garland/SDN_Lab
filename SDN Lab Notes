@@ -2,9 +2,7 @@
 
 install ubuntu server VM 
 
-install mininet ontoo server via: sudo apt install mininet
-
-404416
+install mininet onto server via: sudo apt install mininet
 
 //tested mininet installation via: sudo mn test --pingall
 
