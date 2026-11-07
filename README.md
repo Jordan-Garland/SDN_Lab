@@ -16,5 +16,10 @@ SDN Lab
 <h2>h1 ping h2</h2>
 <img width="287" height="174" alt="image" src="https://github.com/user-attachments/assets/fd4516c6-eb23-4b4d-900c-8de9bf84cd7e" />
 
-<h1>creating custom topology</h1>
+<h1>Step 5: creating custom topology</h1>
 <h2>sudo mn --topo single,3</h2>
+<img width="304" height="150" alt="image" src="https://github.com/user-attachments/assets/6a5e32bc-e6db-46bf-859e-dc6969cb7875" />
+
+<h1>Step 6: measure bandwith</h1>
+<h2>'h1 iperf -s &' and "h2 iperf -c h1"</h2>
+<img width="285" height="108" alt="image" src="https://github.com/user-attachments/assets/f860dacb-a6a9-4aed-94ed-44d9233b1e2e" />
