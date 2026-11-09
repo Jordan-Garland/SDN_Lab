@@ -35,3 +35,9 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 
 <h1>Step 9: Create custom ryu app that impliments a simple learning switch controller<h1>
 <h2>Opened a nano file and added these import modules: from ryu.base import app_manager, from ryu.controller import ofp_event, from ryu.controller.handler import MAIN_DISPATCHER,set_ev_cls, from ryu.ofproto import ofproto_v1_3, from ryu.lib.packet import packet, ethernet</h2>
+<img width="264" height="74" alt="image" src="https://github.com/user-attachments/assets/e4104f89-70f3-4994-b7d6-e3a46dcd5117" />
+
+<h1>Step 10: observe flow tables</h1>
+<h2>use: sh ovs-ofctl dump-flows s1</h2>
+
+
