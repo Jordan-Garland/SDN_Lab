@@ -34,4 +34,4 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 <img width="417" height="135" alt="image" src="https://github.com/user-attachments/assets/a8ecfc70-7619-48fa-952d-410959156e37" />
 
 <h1>Step 9: Create custom ryu app that impliments a simple learning switch controller<h1>
-<h2></h2>
+<h2>Opened a nano file and added these import modules: from ryu.base import app_manager, from ryu.controller import ofp_event, from ryu.controller.handler import MAIN_DISPATCHER,set_ev_cls, from ryu.ofproto import ofproto_v1_3, from ryu.lib.packet import packet, ethernet</h2>
