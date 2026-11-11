@@ -45,16 +45,24 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 <img width="461" height="423" alt="image" src="https://github.com/user-attachments/assets/22f9e767-8121-40ab-b009-e45eca4c0c4d" />
 <img width="214" height="426" alt="image" src="https://github.com/user-attachments/assets/08d38636-a4b9-413a-b991-5c286469df95" />
 
-<h1>Verify traffic between h1 and h3 have been blocked</h1>
+<h1>STep 12: Verify traffic between h1 and h3 have been blocked</h1>
 <h2>h1 ping h2</h2>
 
 
-<h1>Verify h2 and h3 can still communicate between eachother</h1>
+<h1>Step 13: Verify h2 and h3 can still communicate between each other</h1>
 <h2>h2 ping h3</h2>
 <img width="489" height="570" alt="image" src="https://github.com/user-attachments/assets/b00d0cc4-eda9-451b-b312-7ccde54a15a9" />
 <img width="445" height="425" alt="image" src="https://github.com/user-attachments/assets/6f7576e2-8607-4349-80eb-e3e67f4ac79f" />
 <img width="334" height="61" alt="image" src="https://github.com/user-attachments/assets/9252644b-9307-4382-96c7-ec6c9b58f02b" />
 <img width="337" height="61" alt="image" src="https://github.com/user-attachments/assets/9dd671a0-4cdb-4cff-9c44-0675e3a5f033" />
+
+<h1>Step 14: Create a multi switch topology</h1>
+<h2>sudo mn --top linear,3 --controller=remote</h2>
+<img width="620" height="266" alt="image" src="https://github.com/user-attachments/assets/3427967d-d30c-42eb-ae1b-46fae1c182ba" />
+
+
+
+
 
 
 
