@@ -60,6 +60,9 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 <h2>sudo mn --top linear,3 --controller=remote</h2>
 <img width="620" height="266" alt="image" src="https://github.com/user-attachments/assets/3427967d-d30c-42eb-ae1b-46fae1c182ba" />
 
+<h1>Step 14: disable one link</h1>
+<h2>link s1 s2 down</h2>
+
 
 
 
