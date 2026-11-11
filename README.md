@@ -40,4 +40,10 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 <h1>Step 10: observe flow tables</h1>
 <h2>use: sh ovs-ofctl dump-flows s1</h2>
 
+<h1>Step 11: Impliment traffic blocking policy</h1>
+<h2>sh ovs-ofctl -O OpenFlow13 add-flow s1 "priority=100,ip,nw_src=10.0.0.1,nw_dst=10.0.0.3,actions=drop" than run sh ovs-ofctl -O OpenFlow13 dump-flows s1</h2>
+<img width="461" height="423" alt="image" src="https://github.com/user-attachments/assets/22f9e767-8121-40ab-b009-e45eca4c0c4d" />
+<img width="214" height="426" alt="image" src="https://github.com/user-attachments/assets/08d38636-a4b9-413a-b991-5c286469df95" />
+
+
 
