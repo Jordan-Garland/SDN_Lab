@@ -45,5 +45,14 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 <img width="461" height="423" alt="image" src="https://github.com/user-attachments/assets/22f9e767-8121-40ab-b009-e45eca4c0c4d" />
 <img width="214" height="426" alt="image" src="https://github.com/user-attachments/assets/08d38636-a4b9-413a-b991-5c286469df95" />
 
+<h1>Verify traffic between h1 and h3 have been blocked</h1>
+<h2>h1 ping h2</h2>
+
+
+<h1>Verify h2 and h3 can still communicate between eachother</h1>
+<h2>h2 ping h3</h2>
+
+
+
 
 
