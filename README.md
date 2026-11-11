@@ -51,6 +51,10 @@ we had to use sudo apt install -y python3-ryu since the original sudo apt instal
 
 <h1>Verify h2 and h3 can still communicate between eachother</h1>
 <h2>h2 ping h3</h2>
+<img width="489" height="570" alt="image" src="https://github.com/user-attachments/assets/b00d0cc4-eda9-451b-b312-7ccde54a15a9" />
+<img width="445" height="425" alt="image" src="https://github.com/user-attachments/assets/6f7576e2-8607-4349-80eb-e3e67f4ac79f" />
+
+
 
 
 
